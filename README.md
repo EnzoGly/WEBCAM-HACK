@@ -22,7 +22,7 @@
 # chmod +x *
 # ./ngrok config add-authtoken seutoken
 # exit
-# # ./ngrok config add-authtoken seutoken
+# ./ngrok config add-authtoken seutoken
 # bash executar.sh
 # pronto está tudo configurado agora para iniciar o ngrok na mesma porta do programa use
 
