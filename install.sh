@@ -11,6 +11,7 @@ chmod +x *
 cd .. 
 cd Termux-kali
 chmod +x *
+bash install.sh
 cd ..
 rm install.sh
 echo "instalado :)"
