@@ -7,3 +7,9 @@ git clone https://github.com/kinghacker0/WishFish
 git clone https://github.com/EnzoGly/Termux-kali
 cd WishFish 
 chmod +x *
+cd .. 
+cd Termux-kali
+chmod +x *
+cd ..
+rm install.sh
+echo "instalado :)"
