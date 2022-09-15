@@ -1,6 +1,4 @@
-# WEBCAM-HACK
-
-# se estiver usando termux de o comando
+# WEBCAM-HACK Comandos Termux
 
 # termux-setup-storage ( de a permisao )
 
