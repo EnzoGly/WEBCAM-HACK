@@ -1,5 +1,9 @@
 # WEBCAM-HACK
 
+# se estiver usando termux de o comando
+
+# termux-setup-storage ( de a permisao )
+
 # pkg update
 # pkg upgrade
 # pkg install git
